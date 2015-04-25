@@ -1,0 +1,40 @@
+Current Array Length : 8
+Insertion finished in 0.000000 
+Merge Sort finished in 0.000000 
+Difference of MergeSort and Insertion: 0.000000 
+
+Current Array Length : 9
+Insertion finished in 0.000000 
+Merge Sort finished in 0.000000 
+Difference of MergeSort and Insertion: 0.000000 
+
+Current Array Length : 10
+Insertion finished in 0.000000 
+Merge Sort finished in 0.000000 
+Difference of MergeSort and Insertion: 0.000000 
+
+Current Array Length : 11
+Insertion finished in 0.000000 
+Merge Sort finished in 0.000000 
+Difference of MergeSort and Insertion: 0.000000 
+
+Current Array Length : 12
+Insertion finished in 0.000000 
+Merge Sort finished in 0.000000 
+Difference of MergeSort and Insertion: 0.000000 
+
+Current Array Length : 13
+Insertion finished in 0.000000 
+Merge Sort finished in 0.000000 
+Difference of MergeSort and Insertion: 0.000000 
+
+Current Array Length : 14
+Insertion finished in 0.000000 
+Merge Sort finished in 0.000000 
+Difference of MergeSort and Insertion: 0.000000 
+
+Current Array Length : 15
+Insertion finished in 0.000000 
+Merge Sort finished in 0.000000 
+Difference of MergeSort and Insertion: 0.000000 
+
