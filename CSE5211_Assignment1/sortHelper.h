@@ -4,7 +4,7 @@ This class file contains various declarations of functions used for the implemen
 of the insertion and merge sort algorithmns.
 
 @author Charles Forrest
-@version 1.0 01/32/2015
+@version 1.0 01/31/2015
 */
 
 #ifndef SORTHELPER_H
